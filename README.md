@@ -1,16 +1,41 @@
-## Hi there 👋
+# Samuel Ojo
 
-<!--
-**samdamz18/samdamz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Financial Data Analyst | Data Engineer | Machine Learning**
 
-Here are some ideas to get you started:
+I work on financial data systems, automation pipelines, and machine learning models for transaction analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Resume Preview](./preview.png)
+
+📄 [Download Resume (PDF)](./Samuel_Ojo_Data_Engineer_ML_Resume.pdf)
+
+---
+
+## Key Projects
+
+- **[ZIMS-ML-STREAMING](https://github.com/samdamz18/zims-ml-streaming)** — ML classification pipeline for financial transactions (128M transactions, 99.91% accuracy, Macro-F1 0.93) — *Built at Zenith Bank PLC*
+- **[Fraud Detection ML](https://github.com/samdamz18/fraud_detection)** — Machine learning model for financial transaction fraud detection, addressing extreme class imbalance in real-world datasets
+
+---
+
+## Articles
+
+- 📝 [Classifying 128 Million Financial Transactions](https://medium.com/@sammzy/classifying-128-million-financial-transactions-63ba864c0c9e) — Architecture and engineering decisions behind ZIMS-ML-STREAMING
+- 📝 [Why Your Fraud Detection System Probably Catches Almost Nothing](https://medium.com/@sammzy/why-your-fraud-detection-system-probably-catches-almost-nothing-8a9da0a8d928) — Why standard fraud detection models fail in practice and how to fix them
+
+---
+
+## Repositories
+
+- 🔗 [zims-ml-streaming](https://github.com/samdamz18/zims-ml-streaming) — Production ML pipeline for large-scale financial transaction classification
+- 🔗 [fraud_detection](https://github.com/samdamz18/fraud_detection) — Fraud detection on imbalanced financial transaction data
+- 🔗 [GitHub Profile](https://github.com/samdamz18) — All public repositories
+
+---
+
+## Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/samuel-adedamola-ojo)
+- ✍️ [Medium](https://medium.com/@sammzy)
+- 📧 ojo.samuel.adedamola@gmail.com
