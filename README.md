@@ -14,8 +14,9 @@ I work on financial data systems, automation pipelines, and machine learning mod
 
 ## Key Projects
 
-- **[ZIMS-ML-STREAMING](https://github.com/samdamz18/zims-ml-streaming)** — ML classification pipeline for financial transactions (128M transactions, 99.91% accuracy, Macro-F1 0.93) — *Built at Zenith Bank PLC*
-- **[Fraud Detection ML](https://github.com/samdamz18/fraud_detection)** — Machine learning model for financial transaction fraud detection, addressing extreme class imbalance in real-world datasets
+- **[ZIMS-ML-STREAMING](https://github.com/samdamz18/zims-ml-streaming)** — Large-scale ML classification pipeline for financial transactions (128M+ records), addressing extreme class imbalance and metric misinterpretation (Macro-F1 vs Weighted-F1), with production-oriented design and evaluation — *Built at Zenith Bank PLC*
+- **[Fraud Detection ML](https://github.com/samdamz18/fraud_detection)** — Fraud detection analysis on highly imbalanced transaction data, demonstrating the limitations of rule-based systems and the impact of feature engineering on detection performance (AUPRC, recall, false alarm trade-offs)
+- **[IEEE-CIS Fraud Signal Analysis](https://github.com/samdamz18/ieee-cis-fraud-signal-analysis)** — Feature-driven fraud detection study comparing behavioural, velocity, and relational signals, with temporal validation to identify stable, production-relevant fraud patterns
 
 ---
 
